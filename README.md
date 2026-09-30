@@ -1,7 +1,6 @@
 # Cadence
 
 The front end for Cadence, a tool that helps people pause and verify when a familiar voice calls.
-The whole product is designed as a film in black and white: the marketing site and the voice assistant page share one system.
 
 ```
 npm install
